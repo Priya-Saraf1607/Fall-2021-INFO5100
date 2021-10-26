@@ -1,1 +1,0 @@
-This is my midterm solution folder
